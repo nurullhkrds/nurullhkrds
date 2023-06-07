@@ -1,16 +1,11 @@
-[![MasterHead](https://nimapinfotech.com/frontend-developers-vs-backend-developers/)
 <h1 align="center">Merhaba 👋, ben Nurullah</h1>
-<h3 align="center">Ben Nurullah Kardaş. İnönü Üniversitesi Bilgisayar Mühendisliği 3. Sınıftayım. Şimdilik Front-end, yanıt teknolojileri ve Back-end, java ile ilgileniyorum. Aynı zamanda yapay zekanın bir alt dalı olan Data Science alanında kendimi geliştirmekteyim.</h3> <
+<h3 align="center">Ben Nurullah Kardaş. İnönü Üniversitesi Bilgisayar Mühendisliği 3. Sınıftayım. Şimdilik Front-end, response teknolojileri ve Back-end, java ile ilgileniyorum. Aynı zamanda yapay zekanın bir alt dalı olan Veri Bilimi alanında kendimi geliştirmekteyim.</h3> -
 
-p align="left"> <img src="https://komarev.com/ghpvc/?username=nurullhkrds&label=Profile%20views&color=0e75b6&style=flat" alt="nurullhkrds" /> </p>
-
-<p align=" sol"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurullhkrds " alt="
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo= twitter&style=for-the-badge" alt="" /></a> </p>
+📫 Bana nasıl ulaşabilirsiniz **nurullhkardas@gmail.com**
 
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align="left">
-<a href= "https://linkedin.com/in/https://www.linkedin.com/in/nurullah-karda%c5%9f-8b5433227/" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com /in/nurullah-karda%c5%9f-8b5433227/" height="30" width="40" /></a>
+<a href="https://linkedin.com/ in/nurullah-kardaş-8b5433227/" target="blank"><img align="center" src="https://raw.githubusercontent.
 <a href="https://instagram.com/nurullhkrdss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="nurullhkrdss" height="30" width="40" /></a> </p>
 <
 
@@ -20,5 +15,3 @@ h3 align="left">Diller ve Araçlar:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurullhkrds&show_icons=true&locale=en&layout=compact" alt="nurullhkrds" /> </p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nurullhkrds&show_icons=true&locale=en" alt="nurullhkrds" /> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurullhkrds&" alt="nurullhkrds" /></p>
