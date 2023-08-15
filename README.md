@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nurullah</h1>
-<h3 align="center">I am Nurullah Kardas. I am in the 3rd year of Computer Engineering at İnönü University. For now I'm interested in Front-end, response technologies and Back-end, java.At the same time, I am developing myself in the field of Data Science, a sub-branch of artificial intelligence.</h3>
+<h3 align="center">I am a 3rd year Computer Engineering student at İnönü
+University. sub branch of artificial intelligence I have
+completed data science training and I continue to feel
+myself in this field. At the same time, many Front end
+and Back-end Web programming trainings I finished
+Colors Html/Css/Bootstrap/javaScript/React/Java
+spring tutorials. Now I am working as a guest by
+developing projects in this field.</h3>
 
 - 📫 How to reach me **nurullhkardas@gmail.com**
 
